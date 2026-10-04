@@ -2,7 +2,7 @@
 
 # Assalamu Alaikum, I'm Uzma Yasmeen 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;DSA+%7C+Problem+Solving+%7C+Development;Exploring+AI%2FML+Alongside+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;DSA+%7C+Development+%7C+Cloud;Exploring+AI%2FML+Alongside+Software+Engineering" />
 </div>
 
 ---
