@@ -62,49 +62,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 AI Career Intelligence System
-
-Explainable AI-powered career guidance platform with role prediction, salary estimation, skill-gap analysis and personalized learning roadmaps.
-
-**Tech:** Python • Streamlit • XGBoost • SHAP • Gemini • Firebase
-
-[Repository](https://github.com/Uzma-Yasmeen/Career-Intelligence-System) •
-[Live App](https://career-intelligence-system-0911.streamlit.app/)
-
----
-
-### 🎙️ GoaVaani
-
-A multilingual voice-enabled RAG system supporting English, Hindi and Telugu with grounded retrieval and speech input.
-
-**Tech:** FastAPI • FAISS • ElevenLabs • Groq • React • TypeScript
-
-[Repository](https://github.com/Uzma-Yasmeen/HHGoaRAG)
-
----
-
-### 🎓 Campus Events
-
-A campus event management platform for students and organisers with authentication, registrations and QR-based event access.
-
-**Tech:** Node.js • Express • MongoDB • React Native • JWT
-
-[Repository](https://github.com/Uzma-Yasmeen/Campus_Event_App)
-
----
-
-### 📊 DataViz Studio
-
-A no-code data analytics dashboard for automated EDA, visualization and report generation.
-
-**Tech:** Python • Streamlit • Pandas • Matplotlib • Seaborn
-
-[Repository](https://github.com/Uzma-Yasmeen/Data-Viz-Studio)
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
