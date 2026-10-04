@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Uzma Yasmeen 👋
+# Assalamu Alaikum, I'm Uzma Yasmeen 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Development+%7C+AI%2FML+%7C+Cloud;Building+Projects+That+Solve+Real+Problems;Learning+DSA+and+Cloud+Technologies" />
 
