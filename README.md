@@ -2,11 +2,7 @@
 
 # Hi, I'm Uzma Yasmeen 👋
 
-### Computer Science Student | Software Development | AI/ML | Cloud
-
-Building practical applications across **Software Engineering, AI/ML, Data Analytics and Cloud**, while strengthening my problem-solving skills through DSA.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Uzma--Yasmeen-181717?style=for-the-badge&logo=github)](https://github.com/Uzma-Yasmeen)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Development+%7C+AI%2FML+%7C+Cloud;Building+Projects+That+Solve+Real+Problems;Learning+DSA+and+Cloud+Technologies" />
 
 </div>
 
@@ -15,12 +11,11 @@ Building practical applications across **Software Engineering, AI/ML, Data Analy
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering student
-- 💻 Interested in **Software Engineering, AI/ML and Cloud Computing**
-- 🧠 Currently strengthening **Data Structures & Algorithms**
-- ☁️ Exploring cloud technologies and scalable application development
-- 🤖 Interested in **Machine Learning, Generative AI, RAG and Explainable AI**
-- 🛠️ I enjoy turning academic concepts into deployable projects
-- 🌱 Always learning, building and improving
+- 💻 Focused on Software Engineering, AI/ML and Cloud Computing
+- 🧠 Currently strengthening Data Structures & Algorithms
+- 🤖 Building projects involving Machine Learning, RAG and Explainable AI
+- ☁️ Exploring scalable application development and cloud technologies
+- 🚀 I enjoy turning ideas into practical, deployable projects
 
 ---
 
@@ -28,182 +23,101 @@ Building practical applications across **Software Engineering, AI/ML, Data Analy
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend & Application Development
+### Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Also worked with:** Streamlit • React Native
+### Databases & Cloud
 
-### Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+### AI / ML
 
-### Databases
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
-</p>
-
-**Technologies & Concepts**
-
-`Scikit-learn` • `XGBoost` • `SHAP` • `Pandas` • `NumPy` • `FAISS` • `RAG` • `LLM APIs` • `Gemini` • `Groq`
-
-### Cloud & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker" />
-</p>
-
-**Platforms:** AWS • Render • Netlify • GitHub Pages • Cloudflare
+`XGBoost` • `SHAP` • `FAISS` • `RAG` • `Gemini API` • `Groq`
 
 ### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 AI Career Intelligence System
+### 🧠 AI Career Intelligence System
 
-An explainable AI-based career guidance platform that analyzes user profiles and provides software-role predictions, salary benchmarking, skill-gap analysis and personalized learning roadmaps.
+Explainable AI-powered career guidance platform with role prediction, salary estimation, skill-gap analysis and personalized learning roadmaps.
 
-### Highlights
-- Role prediction using **Balanced Random Forest**
-- Salary estimation using **XGBoost**
-- Explainability using **SHAP**
-- Resume and GitHub profile analysis
-- Personalized AI-generated career roadmaps
-- Market calibration across 50+ countries
-- Built using data from the Stack Overflow Developer Survey
+**Tech:** Python • Streamlit • XGBoost • SHAP • Gemini • Firebase
 
-**Tech:**  
-`Python` `Streamlit` `Scikit-learn` `XGBoost` `SHAP` `Gemini API` `Firebase` `Pandas`
-
-🔗 [View Repository](https://github.com/Uzma-Yasmeen/Career-Intelligence-System)
-
-🌐 [Live Application](https://career-intelligence-system-0911.streamlit.app/)
+[Repository](https://github.com/Uzma-Yasmeen/Career-Intelligence-System) •
+[Live App](https://career-intelligence-system-0911.streamlit.app/)
 
 ---
 
-## 🎙️ GoaVaani — Voice Enabled RAG
+### 🎙️ GoaVaani
 
-A multilingual voice-enabled Retrieval-Augmented Generation system designed for English, Hindi and Telugu queries.
+A multilingual voice-enabled RAG system supporting English, Hindi and Telugu with grounded retrieval and speech input.
 
-### Highlights
-- Speech-to-text using **ElevenLabs Scribe**
-- Multilingual embeddings using **multilingual-e5-small**
-- Vector retrieval using **FAISS**
-- FastAPI retrieval backend
-- Optional Groq-based grounded answer generation
-- Query guardrails and evidence validation
-- Multilingual retrieval pipeline
+**Tech:** FastAPI • FAISS • ElevenLabs • Groq • React • TypeScript
 
-**Tech:**  
-`Python` `FastAPI` `FAISS` `ONNX` `React` `Next.js` `TypeScript` `ElevenLabs` `Groq` `Cloudflare`
-
-🔗 [View Repository](https://github.com/Uzma-Yasmeen/HHGoaRAG)
+[Repository](https://github.com/Uzma-Yasmeen/HHGoaRAG)
 
 ---
 
-## 📊 DataViz Studio
+### 🎓 Campus Events
 
-A no-code data analytics and visualization dashboard that allows users to upload datasets and automatically perform exploratory data analysis.
+A campus event management platform for students and organisers with authentication, registrations and QR-based event access.
 
-### Features
-- CSV, JSON and Excel upload
-- Automated exploratory data analysis
-- Multiple visualization types
-- Correlation analysis
-- Missing-value analysis
-- Dashboard generation
-- PNG and PDF report export
+**Tech:** Node.js • Express • MongoDB • React Native • JWT
 
-**Tech:**  
-`Python` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-🔗 [View Repository](https://github.com/Uzma-Yasmeen/Data-Viz-Studio)
-
-🌐 [Live Dashboard](https://data-viz-studio.onrender.com)
+[Repository](https://github.com/Uzma-Yasmeen/Campus_Event_App)
 
 ---
 
-## 🎓 Campus Events
+### 📊 DataViz Studio
 
-A campus event management platform connecting students and event organisers.
+A no-code data analytics dashboard for automated EDA, visualization and report generation.
 
-### Features
-- Participant and organiser roles
-- JWT authentication
-- Institution-based event access
-- Event CRUD operations
-- Event registration
-- Participant management
-- QR-code based registration
-- Web and mobile clients
-- Automated backend tests
+**Tech:** Python • Streamlit • Pandas • Matplotlib • Seaborn
 
-**Tech:**  
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `JavaScript` `React Native`
-
-🔗 [View Repository](https://github.com/Uzma-Yasmeen/Campus_Event_App)
+[Repository](https://github.com/Uzma-Yasmeen/Data-Viz-Studio)
 
 ---
 
-## 💧 AquaPulse
-
-A rainwater harvesting intelligence system developed for a hackathon to help monitor urban Rainwater Harvesting compliance.
-
-**Tech:**  
-`Python` `Streamlit` `Data Analytics` `JSON`
-
-🔗 [View Repository](https://github.com/Uzma-Yasmeen/TechDragons-AquaPulse)
-
----
-
-## 🧩 Data Structures & Algorithms
-
-Alongside project development, I regularly practice algorithmic problem solving and Data Structures & Algorithms.
-
-**Primary Language:** Java
-
-Topics include:
-
-`Arrays` • `Strings` • `Searching` • `Sorting` • `Recursion` • `Hashing` • `Linked Lists` • `Trees` • `Graphs` • `Dynamic Programming`
-
-🔗 [DSA / LeetCode Repository](https://github.com/Uzma-Yasmeen/Leet)
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uzma-Yasmeen&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Uzma-Yasmeen&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzma-Yasmeen&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzma-Yasmeen&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -213,47 +127,28 @@ Topics include:
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzma-Yasmeen&theme=github-compact&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Uzma-Yasmeen/Uzma-Yasmeen/output/github-contribution-grid-snake.svg" />
 
 </div>
 
 ---
 
-## 🎯 Currently Focusing On
+<div align="center">
 
-```text
-Data Structures & Algorithms
-      ↓
-Software Engineering
-      ↓
-Cloud Computing
-      ↓
-AI / Machine Learning
-      ↓
-Building Deployable Projects
-```
+### Learning. Building. Improving.
 
----
-
-## 🤝 Open To
-
-- Software Engineering opportunities
-- Internships
-- Open-source contributions
-- AI/ML projects
-- Hackathons
-- Collaborative development
+</div>
 
 ---
 
 <div align="center">
 
-### Build. Learn. Improve. Repeat.
-
-⭐ Thanks for visiting my profile!
+> **“My Lord, increase me in knowledge.”**  
+> **رَبِّ زِدْنِي عِلْمًا**  
+> *Qur’an 20:114*
 
 </div>
