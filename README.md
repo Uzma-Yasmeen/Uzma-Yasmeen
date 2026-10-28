@@ -67,7 +67,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Uzma-Yasmeen&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzma-Yasmeen&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzma-Yasmeen&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" height="170"/>
 
 </div>
 
